@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## Setup
 Clone the repository:
 
-git clone https://github.com/shaikhsaklen71/farmer-protest-analysis.git
+git clone [https://github.com/shaikhsaklen71/farmer-protest-analysis.git](https://github.com/Saklenshaikh71/-Farmer-Protest-Twitter-Data-Project/tree/main)
 cd farmer-protest-analysis
 
 Obtain Twitter API credentials and set them in a configuration file or environment variables.
